@@ -74,7 +74,7 @@ li a {
   margin: 0;
   padding-top: 50px; }
 
-.eventhej {
+.eventinfo {
   grid-column: 2/6;
   grid-row: 3/4;
   background-color: white;
@@ -134,5 +134,476 @@ li a {
   grid-column: 4/6;
   grid-row: 5/6;
   margin: 0;
+  padding-top: 22px;
+  text-align: center; }
+
+.time1 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 7/8;
+  font-size: 12px; }
+
+.lag1_upcoming {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 7/8;
+  font-size: 12px; }
+
+.vs1 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 7/8;
+  font-size: 12px; }
+
+.lag2_upcoming {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 7/8;
+  font-size: 12px; }
+
+.time1_1 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 7/8;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag1_upcoming_1 {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 7/8;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.vs1_1 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 7/8;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag2_upcoming_1 {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 7/8;
+  background-color: white;
+  border: 1px solid black;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.time2 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 8/9;
+  font-size: 12px; }
+
+.lag3_upcoming {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 8/9;
+  font-size: 12px; }
+
+.vs2 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 8/9;
+  font-size: 12px; }
+
+.lag4_upcoming {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 8/9;
+  font-size: 12px; }
+
+.time2_1 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 8/9;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag3_upcoming_1 {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 8/9;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.vs2_1 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 8/9;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag4_upcoming_1 {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 8/9;
+  background-color: white;
+  border: 1px solid black;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.time3 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 9/10;
+  font-size: 12px; }
+
+.lag5_upcoming {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 9/10;
+  font-size: 12px; }
+
+.vs3 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 9/10;
+  font-size: 12px; }
+
+.lag6_upcoming {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 9/10;
+  font-size: 12px; }
+
+.time3_1 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 9/10;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag5_upcoming_1 {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 9/10;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.vs3_1 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 9/10;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag6_upcoming_1 {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 9/10;
+  background-color: white;
+  border: 1px solid black;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.featured_matches {
+  grid-column: 2/5;
+  grid-row: 2/3;
+  margin: 0;
+  padding-top: 50px; }
+
+.recent_results {
+  grid-column: 2/5;
+  grid-row: 6/7;
+  margin: 0;
+  padding-top: 50px; }
+
+.eventinfo1 {
+  grid-column: 2/6;
+  grid-row: 3/4;
+  background-color: white;
+  border: 1px solid black; }
+
+.current_event1 {
+  grid-column: 2/5;
+  grid-row: 3/4;
+  text-align: center;
+  margin: 0;
+  padding-top: 22px; }
+
+.team1_1 {
+  grid-column: 2/4;
+  grid-row: 4/5;
+  background-color: white;
+  border: 1px solid black; }
+
+.lag1_1 {
+  grid-column: 2/4;
+  grid-row: 4/5;
+  margin: 0;
+  padding-top: 22px; }
+
+.team2_1 {
+  grid-column: 2/4;
+  grid-row: 5/6;
+  background-color: white;
+  border: 1px solid black; }
+
+.lag2_1 {
+  grid-column: 2/4;
+  grid-row: 5/6;
+  margin: 0;
+  padding-top: 22px; }
+
+.standing1_1 {
+  grid-column: 4/6;
+  grid-row: 4/5;
+  background-color: white;
+  border: 1px solid black; }
+
+.score1_1 {
+  grid-column: 4/6;
+  grid-row: 4/5;
+  margin: 0;
+  padding-top: 22px;
+  text-align: center; }
+
+.standing2_1 {
+  grid-column: 4/6;
+  grid-row: 5/6;
+  background-color: white;
+  border: 1px solid black; }
+
+.score2_1 {
+  grid-column: 4/6;
+  grid-row: 5/6;
+  margin: 0;
+  padding-top: 22px;
+  text-align: center; }
+
+.time1 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 7/8;
+  font-size: 12px; }
+
+.lag1_upcoming {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 7/8;
+  font-size: 12px; }
+
+.vs1 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 7/8;
+  font-size: 12px; }
+
+.lag2_upcoming {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 7/8;
+  font-size: 12px; }
+
+.time1_1 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 7/8;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag1_upcoming_1 {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 7/8;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.vs1_1 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 7/8;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag2_upcoming_1 {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 7/8;
+  background-color: white;
+  border: 1px solid black;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.time2 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 8/9;
+  font-size: 12px; }
+
+.lag3_upcoming {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 8/9;
+  font-size: 12px; }
+
+.vs2 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 8/9;
+  font-size: 12px; }
+
+.lag4_upcoming {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 8/9;
+  font-size: 12px; }
+
+.time2_1 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 8/9;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag3_upcoming_1 {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 8/9;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.vs2_1 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 8/9;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag4_upcoming_1 {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 8/9;
+  background-color: white;
+  border: 1px solid black;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.time3 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 9/10;
+  font-size: 12px; }
+
+.lag5_upcoming {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 9/10;
+  font-size: 12px; }
+
+.vs3 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 9/10;
+  font-size: 12px; }
+
+.lag6_upcoming {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 9/10;
+  font-size: 12px; }
+
+.time3_1 {
+  margin: 0;
+  grid-column: 2/3;
+  grid-row: 9/10;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag5_upcoming_1 {
+  margin: 0;
+  grid-column: 3/4;
+  grid-row: 9/10;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.vs3_1 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 9/10;
+  background-color: white;
+  border: 1px solid black;
+  border-right: none;
+  border-left: none;
+  padding-top: 22px;
+  text-align: center; }
+
+.lag6_upcoming_1 {
+  margin: 0;
+  grid-column: 5/6;
+  grid-row: 9/10;
+  background-color: white;
+  border: 1px solid black;
+  border-left: none;
   padding-top: 22px;
   text-align: center; }
