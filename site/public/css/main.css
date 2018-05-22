@@ -395,7 +395,8 @@ li a {
   grid-row: 4/5;
   margin: 0;
   padding-top: 22px;
-  text-align: center; }
+  text-align: center;
+  color: green; }
 
 .standing2_1 {
   grid-column: 4/6;
@@ -408,9 +409,10 @@ li a {
   grid-row: 5/6;
   margin: 0;
   padding-top: 22px;
-  text-align: center; }
+  text-align: center;
+  color: red; }
 
-.time1 {
+.date1 {
   margin: 0;
   grid-column: 2/3;
   grid-row: 7/8;
@@ -422,11 +424,28 @@ li a {
   grid-row: 7/8;
   font-size: 12px; }
 
-.vs1 {
+.result1 {
   margin: 0;
   grid-column: 4/5;
   grid-row: 7/8;
-  font-size: 12px; }
+  font-size: 12px;
+  text-align: left;
+  color: green; }
+
+.result2 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 7/8;
+  font-size: 12px;
+  text-align: center; }
+
+.result3 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 7/8;
+  font-size: 12px;
+  text-align: right;
+  color: red; }
 
 .lag2_upcoming {
   margin: 0;
@@ -434,7 +453,7 @@ li a {
   grid-row: 7/8;
   font-size: 12px; }
 
-.time1_1 {
+.date1_1 {
   margin: 0;
   grid-column: 2/3;
   grid-row: 7/8;
@@ -455,16 +474,14 @@ li a {
   padding-top: 22px;
   text-align: center; }
 
-.vs1_1 {
+.result1_1 {
   margin: 0;
   grid-column: 4/5;
   grid-row: 7/8;
   background-color: white;
   border: 1px solid black;
   border-right: none;
-  border-left: none;
-  padding-top: 22px;
-  text-align: center; }
+  border-left: none; }
 
 .lag2_upcoming_1 {
   margin: 0;
@@ -476,7 +493,7 @@ li a {
   padding-top: 22px;
   text-align: center; }
 
-.time2 {
+.date2 {
   margin: 0;
   grid-column: 2/3;
   grid-row: 8/9;
@@ -488,11 +505,28 @@ li a {
   grid-row: 8/9;
   font-size: 12px; }
 
-.vs2 {
+.result4 {
   margin: 0;
   grid-column: 4/5;
   grid-row: 8/9;
-  font-size: 12px; }
+  font-size: 12px;
+  text-align: left;
+  color: red; }
+
+.result5 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 8/9;
+  font-size: 12px;
+  text-align: center; }
+
+.result6 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 8/9;
+  font-size: 12px;
+  text-align: right;
+  color: green; }
 
 .lag4_upcoming {
   margin: 0;
@@ -500,7 +534,7 @@ li a {
   grid-row: 8/9;
   font-size: 12px; }
 
-.time2_1 {
+.date2_1 {
   margin: 0;
   grid-column: 2/3;
   grid-row: 8/9;
@@ -521,7 +555,7 @@ li a {
   padding-top: 22px;
   text-align: center; }
 
-.vs2_1 {
+.result2_1 {
   margin: 0;
   grid-column: 4/5;
   grid-row: 8/9;
@@ -542,7 +576,7 @@ li a {
   padding-top: 22px;
   text-align: center; }
 
-.time3 {
+.date3 {
   margin: 0;
   grid-column: 2/3;
   grid-row: 9/10;
@@ -554,11 +588,28 @@ li a {
   grid-row: 9/10;
   font-size: 12px; }
 
-.vs3 {
+.result7 {
   margin: 0;
   grid-column: 4/5;
   grid-row: 9/10;
-  font-size: 12px; }
+  font-size: 12px;
+  text-align: left;
+  color: green; }
+
+.result8 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 9/10;
+  font-size: 12px;
+  text-align: center; }
+
+.result9 {
+  margin: 0;
+  grid-column: 4/5;
+  grid-row: 9/10;
+  font-size: 12px;
+  text-align: right;
+  color: red; }
 
 .lag6_upcoming {
   margin: 0;
@@ -566,7 +617,7 @@ li a {
   grid-row: 9/10;
   font-size: 12px; }
 
-.time3_1 {
+.date3_1 {
   margin: 0;
   grid-column: 2/3;
   grid-row: 9/10;
@@ -587,7 +638,7 @@ li a {
   padding-top: 22px;
   text-align: center; }
 
-.vs3_1 {
+.result3_1 {
   margin: 0;
   grid-column: 4/5;
   grid-row: 9/10;
