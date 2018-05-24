@@ -165,6 +165,8 @@
     border: 1px solid black;
     border-right: none;
     border-left: none;
+    display: flex;
+    padding-top: 28px;
 }
 
 .lag2_upcoming_1{
@@ -256,8 +258,9 @@
     border: 1px solid black;
     border-right: none;
     border-left: none;
-    padding-top: 22px;
+    padding-top: 28px;
     text-align: center;
+    display: flex;
 }
 
 .lag4_upcoming_1{
@@ -349,8 +352,10 @@
     border: 1px solid black;
     border-right: none;
     border-left: none;
-    padding-top: 22px;
+    padding-top: 28px;
     text-align: center;
+    display: flex;
+    
 }
 
 .lag6_upcoming_1{
@@ -362,4 +367,16 @@
     border-left: none;
     padding-top: 22px;
     text-align: center;
+}
+
+.result3_1 h3{
+    padding-left: 10px;
+}
+
+.result2_1 h3{
+    padding-left: 10px;
+}
+
+.result1_1 h3{
+    padding-left: 10px;
 }

@@ -15,9 +15,25 @@
                 <div class="events">
                     <li><a class="event" href="">Events</a></li>
                 </div>
+                <div class="statistik">
                     <li><a class="statistik" href="">Statistik</a></li>
+                </div>
                 </ul>
+                
         </header>
+        
+        <div class="menu" onclick="myFunction(this)">
+                    <div class="bar1"></div>
+                    <div class="bar2"></div>
+                    <div class="bar3"></div>
+        </div>
+        <div id="myDropdown" class="dropdown-content">
+                <a href="gallery.html">Gallery</a>
+                <a href="#">News</a>
+                <a href="#">Rankings</a>
+        </div>
+       
+        
         
         <h3 class="title1">News</h3>
 
@@ -36,5 +52,11 @@
 <h3 class="title2">Player of the week</h3>
         
     </div>
+        <script>
+            function myFunction(x) {
+                x.classList.toggle("change");
+                document.getElementById("myDropdown").classList.toggle("show");
+            }
+        </script>
 </body>
 </html>
