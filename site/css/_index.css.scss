@@ -123,7 +123,7 @@ li a:hover {
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
-    grid-column: 2/7;
+    grid-column: 1/7;
     grid-row: 2/3;
     background-color: #333;
     min-width: 160px;
@@ -140,10 +140,10 @@ li a:hover {
     text-decoration: none;
     display: inline;
     padding-right: 10px;
-    padding-left: 25px;
+    padding-left: 36px;
     padding-top: 28px;
     padding-bottom: 23px;
-    padding-right: 25px;
+    padding-right: 36px;
     border: 1px solid grey;
     border-right: none;
     border-bottom: none;
