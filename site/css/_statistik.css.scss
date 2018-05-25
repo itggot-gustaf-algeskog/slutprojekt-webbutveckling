@@ -169,3 +169,33 @@
     text-align: center;
     padding-top: 22px;
 }
+
+@media only screen and (min-device-width: 600px){
+    .topteam{
+        grid-column: 7/9;
+    }
+
+    .topteam1{
+        grid-column: 7/9;
+    }
+
+    .topteam2{
+        grid-column: 7/9;
+    }
+
+    .topteam3{
+        grid-column: 7/9;
+    }
+
+    .topteam4{
+        grid-column: 7/9;
+    }
+
+    .topteam5{
+        grid-column: 7/9;
+    }
+
+    .topteam6{
+        grid-column: 7/9;
+    }
+}

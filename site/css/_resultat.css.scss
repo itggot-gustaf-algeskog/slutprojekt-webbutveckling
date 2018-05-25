@@ -382,3 +382,115 @@
 .result1_1 h3{
     padding-left: 10px;
 }
+
+@media only screen and (min-device-width: 600px){
+    .lag1_upcoming_1{
+        grid-column: 4/6;
+        text-align: left;
+        padding-left: 25px;
+    }
+
+    .lag2_upcoming_1{
+        grid-column: 6/7;
+    }
+
+    .lag3_upcoming_1{
+        grid-column: 4/6;
+        text-align: left;
+        padding-left: 25px;
+    }
+
+    .lag4_upcoming_1{
+        grid-column: 6/7;
+    }
+
+    .lag5_upcoming_1{
+        grid-column: 4/6;
+        text-align: left;
+        padding-left: 25px;
+    }
+
+    .lag6_upcoming_1{
+        grid-column: 6/7;
+    }
+
+    .featured_matches{
+        grid-column: 3/5;
+        padding-top: 75px;
+    }
+
+    .eventinfo1{
+        grid-column: 3/7;
+    }
+
+    .team1_1{
+        grid-column: 3/6;
+    }
+
+    .team2_1{
+        grid-column: 3/6;
+    }
+
+    .standing1_1{
+        grid-column: 5/7;
+    }
+
+    .standing2_1{
+        grid-column: 5/7;
+    }
+
+    .lag1_1{
+        margin: 0;
+        padding-top: 25px;
+        text-align: left;
+        padding-left: 100px;
+    }
+
+    .lag2_1{
+        margin: 0;
+        padding-top: 25px;
+        text-align: left;
+        padding-left: 100px;
+    }
+
+    .date1_1{
+        grid-column: 3/5;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .date2_1{
+        grid-column: 3/5;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .date3_1{
+        grid-column: 3/5;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .result1_1{
+        grid-column: 5/7;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .result2_1{
+        grid-column: 5/7;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .result3_1{
+        grid-column: 5/7;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .recent_results{
+        grid-column: 3/5;
+        padding-top: 75px;
+    }
+}

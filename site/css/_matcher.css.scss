@@ -308,3 +308,115 @@
     padding-top: 22px;
     text-align: center;
 }
+
+@media only screen and (min-device-width: 600px){
+    .live_matches{
+        grid-column: 3/5;
+        padding-top: 75px;
+    }
+
+    .eventinfo{
+        grid-column: 3/7;
+    }
+
+    .team1{
+        grid-column: 3/6;
+    }
+
+    .team2{
+        grid-column: 3/6;
+    }
+
+    .standing1{
+        grid-column: 5/7;
+    }
+
+    .standing2{
+        grid-column: 5/7;
+    }
+
+    .lag1{
+        margin: 0;
+        padding-top: 25px;
+        text-align: left;
+        padding-left: 100px;
+    }
+
+    .lag2{
+        margin: 0;
+        padding-top: 25px;
+        text-align: left;
+        padding-left: 100px;
+    }
+
+    .upcoming_matches{
+        grid-column: 3/5;
+        padding-top: 75px;
+    }
+
+    .time1_1{
+        grid-column: 3/5;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .lag1_upcoming_1{
+        grid-column: 4/6;
+        text-align: left;
+        padding-left: 25px;
+    }
+
+    .vs1_1{
+        grid-column: 5/7;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .lag2_upcoming_1{
+        grid-column: 6/7;
+    }
+
+    .time2_1{
+        grid-column: 3/5;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .lag3_upcoming_1{
+        grid-column: 4/6;
+        text-align: left;
+        padding-left: 25px;
+    }
+
+    .vs2_1{
+        grid-column: 5/7;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .lag4_upcoming_1{
+        grid-column: 6/7;
+    }
+
+    .time3_1{
+        grid-column: 3/5;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .lag5_upcoming_1{
+        grid-column: 4/6;
+        text-align: left;
+        padding-left: 25px;
+    }
+
+    .vs3_1{
+        grid-column: 5/7;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .lag6_upcoming_1{
+        grid-column: 6/7;
+    }
+}
