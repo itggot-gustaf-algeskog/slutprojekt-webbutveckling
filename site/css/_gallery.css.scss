@@ -8,23 +8,75 @@
 .img1{
     grid-column: 2/4;
     grid-row: 3/5;
-    border: 1px solid black;
+    border: 2px solid black;
+    width: 125px; 
+    height: 148px;
+    background: url("../img/css_sprites.png") -155px -450px;
 }
 
 .img2{
     grid-column: 4/6;
     grid-row: 3/5;
-    border: 1px solid black;
+    border: 2px solid black;
+    width: 125px; 
+    height: 148px;
+    background: url("../img/css_sprites.png") -759px -230px;
 }
 
 .img3{
     grid-column: 2/4;
     grid-row: 6/8;
-    border: 1px solid black;
+    border: 2px solid black;
+    width: 125px; 
+    height: 148px;
+    background: url("../img/css_sprites.png") -10px -450px;
 }
 
 .img4{
     grid-column: 4/6;
     grid-row: 6/8;
-    border: 1px solid black;
+    border: 2px solid black;
+    width: 125px; 
+    height: 148px;
+    background: url("../img/css_sprites.png") -300px -450px;
+}
+
+@media only screen and (min-device-width: 600px){
+    .galleri{
+        grid-column: 3/5;
+        grid-row: 2/3;
+        padding-top: 75px;
+    }
+    
+    .img1{
+        grid-column: 3/5;
+        grid-row: 3/5;
+        width: 282px; 
+        height: 200px;
+        background: url("../img/css_sprites.png") -312px -230px;
+    }
+    
+    .img2{
+        grid-column: 5/7;
+        grid-row: 3/5;
+        width: 282px; 
+        height: 200px;
+        background: url("../img/css_sprites.png") -614px -10px;
+    }
+    
+    .img3{
+        grid-column: 3/5;
+        grid-row: 6/8;
+        width: 282px; 
+        height: 200px;
+        background: url("../img/css_sprites.png") -10px -10px;
+    }
+    
+    .img4{
+        grid-column: 5/7;
+        grid-row: 6/8;
+        width: 282px; 
+        height: 200px;
+        background: url("../img/css_sprites.png") -312px -10px;
+    }
 }
