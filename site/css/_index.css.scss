@@ -9,6 +9,14 @@
     background-color: grey; 
 }
 
+.logo {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    width: 62px;
+    height: 74px;
+    background-image: url("../img/logoRLTV.jpg");
+}
+
 header {
     grid-column: 2/6;
     grid-row: 1/2;
@@ -90,7 +98,6 @@ li a:hover {
     background-color: white;
 }
 
-
 .title2 {
     grid-column: 5/7;
     grid-row: 2/3;
@@ -107,6 +114,7 @@ li a:hover {
     padding-left: 12px; 
     padding-top: 18px;
     border: 1px solid grey;
+    border-bottom: 1px solid grey;
 }
 
 .bar1, .bar2, .bar3 {

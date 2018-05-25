@@ -4,3 +4,27 @@
     margin: 0;
     padding-top: 50px;
 }
+
+.img1{
+    grid-column: 2/4;
+    grid-row: 3/5;
+    border: 1px solid black;
+}
+
+.img2{
+    grid-column: 4/6;
+    grid-row: 3/5;
+    border: 1px solid black;
+}
+
+.img3{
+    grid-column: 2/4;
+    grid-row: 6/8;
+    border: 1px solid black;
+}
+
+.img4{
+    grid-column: 4/6;
+    grid-row: 6/8;
+    border: 1px solid black;
+}
